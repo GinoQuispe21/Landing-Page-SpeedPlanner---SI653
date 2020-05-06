@@ -34,11 +34,16 @@ body{
 }
 
 .textos-hero h1{
-    font-size: 40px;
+    font-size: 43px;
 }
 
 .textos-hero h2{
-    font-size: 40px;
+    font-size: 35px;
+}
+
+.textos-hero p{
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 .textos-hero p1{
@@ -54,7 +59,7 @@ body{
     display: inline-block;
     text-decoration: none;
     padding: 12px 15px;
-    background:#83d5ee;
+    background:#707070;
     border-radius: 8px;
     color: #fff;
 }
