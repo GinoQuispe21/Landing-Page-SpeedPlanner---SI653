@@ -13,7 +13,7 @@ body{
 }
 
 .hero{
-    background-image: linear-gradient(120deg, hsla(33, 95%, 78%, 0.801) 0%, hsla(288, 73%, 71%, 0.801) 100%), url("../img/fondoprincipal.jpg");
+    background-image: linear-gradient(120deg, hsla(224, 85%, 60%, 0.719) 0%, hsla(352, 90%, 62%, 0.76) 100%), url("../img/fondoprincipal.jpg");
     width: 100%;
     height: 650px;
     background-repeat: no-repeat;
