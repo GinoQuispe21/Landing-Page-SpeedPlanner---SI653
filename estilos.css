@@ -132,7 +132,9 @@ body{
 .contenedor{
     padding: 80px 0;
 }
-
+.parrafo{
+    font-size: 20px;
+}
 .titulo{
     font-weight: 300;
     font-size: 35px;
@@ -190,7 +192,7 @@ body{
 .CTAalumno{
     text-decoration:  none;
     text-align: center;
-    background-image: linear-gradient(45deg, rgb(0, 0, 0) 0%, rgb(67, 67, 67) 100%);
+    background-image: linear-gradient(45deg, #3055AB 0%, #3055AB 100%);
     padding: 12px 15px;
     border-radius: 8px;
     color: #fff;
@@ -203,7 +205,7 @@ body{
 .CTAinstituto{
     text-decoration: none;
     text-align: center;
-    background-image: linear-gradient(45deg, rgb(0, 0, 0) 0%, rgb(67, 67, 67) 100%);
+    background-image: linear-gradient(45deg, #A43E38 0%, #A43E38 100%);
     padding: 12px 15px;
     border-radius: 8px;
     color: #fff;
